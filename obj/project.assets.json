@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\FIC\\Desktop\\DesviodeFluxo\\DesviodeFluxo.csproj",
+      "projectUniqueName": "c:\\Users\\FIC\\Desktop\\DesviodeFluxo\\DesviodeFluxo.csproj",
       "projectName": "DesviodeFluxo",
-      "projectPath": "C:\\Users\\FIC\\Desktop\\DesviodeFluxo\\DesviodeFluxo.csproj",
+      "projectPath": "c:\\Users\\FIC\\Desktop\\DesviodeFluxo\\DesviodeFluxo.csproj",
       "packagesPath": "C:\\Users\\FIC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\FIC\\Desktop\\DesviodeFluxo\\obj\\",
+      "outputPath": "c:\\Users\\FIC\\Desktop\\DesviodeFluxo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
