@@ -1,0 +1,10 @@
+c:\Users\FIC\Desktop\DesviodeFluxo\bin\Debug\netcoreapp2.0\DesviodeFluxo.deps.json
+c:\Users\FIC\Desktop\DesviodeFluxo\bin\Debug\netcoreapp2.0\DesviodeFluxo.runtimeconfig.json
+c:\Users\FIC\Desktop\DesviodeFluxo\bin\Debug\netcoreapp2.0\DesviodeFluxo.runtimeconfig.dev.json
+c:\Users\FIC\Desktop\DesviodeFluxo\bin\Debug\netcoreapp2.0\DesviodeFluxo.dll
+c:\Users\FIC\Desktop\DesviodeFluxo\bin\Debug\netcoreapp2.0\DesviodeFluxo.pdb
+c:\Users\FIC\Desktop\DesviodeFluxo\obj\Debug\netcoreapp2.0\DesviodeFluxo.csproj.CoreCompileInputs.cache
+c:\Users\FIC\Desktop\DesviodeFluxo\obj\Debug\netcoreapp2.0\DesviodeFluxo.AssemblyInfoInputs.cache
+c:\Users\FIC\Desktop\DesviodeFluxo\obj\Debug\netcoreapp2.0\DesviodeFluxo.AssemblyInfo.cs
+c:\Users\FIC\Desktop\DesviodeFluxo\obj\Debug\netcoreapp2.0\DesviodeFluxo.dll
+c:\Users\FIC\Desktop\DesviodeFluxo\obj\Debug\netcoreapp2.0\DesviodeFluxo.pdb
