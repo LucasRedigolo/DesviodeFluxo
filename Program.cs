@@ -6,7 +6,14 @@ namespace DesviodeFluxo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
+            int salario = 1000;
+            while (salario<5000){
+
+                salario*=100;
+                System.Console.WriteLine("Meu salário ainda é de " + salario);
+            }    
+
+            }
         }
     }
-}
