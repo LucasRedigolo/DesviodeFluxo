@@ -14,7 +14,7 @@ namespace DesviodeFluxo
                 System.Console.WriteLine("Meu salário ainda é de " + salario);
             }    
 
-            int valor =0;
+            int valor ;
 
             System.Console.WriteLine("Digite um numero para ver sua tabuada:");
             valor = Int16.Parse(Console.ReadLine()); // parse usado para converter para a variavel desejada (por default um comando READ sempre le string)
@@ -25,6 +25,12 @@ namespace DesviodeFluxo
                System.Console.WriteLine(valor + " x " + i + " = " +(valor * i)); 
             }
 
+            string[] alunos ={"Lucas", "Viviane", "shablau"};
+
+            for (i = 0; i < alunos.Length; i++)
+            {
+                System.Console.WriteLine("Nome: " + alunos [i]);
+            }
 
             }
         }
